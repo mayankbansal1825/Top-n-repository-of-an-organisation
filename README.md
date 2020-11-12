@@ -1,4 +1,7 @@
 # Top-n-repository-of-an-organisation
+
 For setup
-Compile GitRepoReader.java
-Run GitRepoReader.java
+
+1.Compile GitRepoReader.java
+
+2.Run GitRepoReader.java
